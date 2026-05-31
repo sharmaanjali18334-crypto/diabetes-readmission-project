@@ -37,8 +37,6 @@ Key Skills Demonstrated
 - Healthcare Analytics
 
 Author
-Anjali Sharma
-Aspiring Data Analyst
 
 Anjali Sharma
 Aspiring Data Analyst
